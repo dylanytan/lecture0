@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> HAPPY MOTHERS DAY!!! </title>
+    <link rel="stylesheet" href="mothersdaystyle.css">
+  </head>
+
+  <body>
+    <div id=head> Happy mothers day! </div>
+    <div id=body> I love you mom! </div>
+    <img src=flowers.jpg width="40%" id="center">
+    <div id=end> I hope you like this </div>
+
+</html>
+
