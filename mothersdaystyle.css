@@ -1,0 +1,24 @@
+#head,#body,#end{
+    text-align: center;
+    font: lato;
+}
+
+#head {
+  font-size: 56px;
+  color: maroon
+}
+
+#body{
+  font-size: 36px;
+}
+
+#end{
+  font-size: 30px;
+}
+
+#center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
